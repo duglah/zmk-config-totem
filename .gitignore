@@ -1,0 +1,8 @@
+.west
+build
+zephyr
+modules
+tools
+bootloader
+zmk
+zmk-locales
