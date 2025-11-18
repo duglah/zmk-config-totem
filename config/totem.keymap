@@ -111,10 +111,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &kp DE_N1           &kp DE_N2             &kp DE_N3  &kp DE_N4  &kp DE_N5                  &kp DE_N6                 &kp DE_N7  &kp DE_N8  &kp DE_N9  &kp DE_N0
-        &kp DE_EXCLAMATION  &kp DE_DOUBLE_QUOTES  &kp DOWN   &kp RIGHT  &kp DE_LEFT_BRACKET        &kp DE_RIGHT_BRACKET      &kp KP_N4  &kp KP_N5  &kp KP_N6  &kp KP_MINUS
-&trans  &kp DEL             &kp PG_UP             &kp CAPS   &kp PG_DN  &kp DE_LEFT_PARENTHESIS    &kp DE_RIGHT_PARENTHESIS  &kp KP_N1  &kp KP_N2  &kp KP_N3  &kp KP_MULTIPLY  &trans
-                                                  &trans     &trans     &trans                     &mo ADJ                   &kp KP_N0  &trans
+              &kp DE_N1                        &kp DE_N2                      &kp DE_N3                    &kp DE_N4                 &kp DE_N5                  &kp DE_N6                 &kp DE_N7                   &kp DE_N8                     &kp DE_N9               &kp DE_N0
+              &mt LEFT_COMMAND DE_EXCLAMATION  &mt LEFT_ALT DE_DOUBLE_QUOTES  &mt LEFT_CONTROL DE_SECTION  &mt LEFT_SHIFT DE_DOLLAR  &kp DE_LEFT_BRACKET        &kp DE_RIGHT_BRACKET      &mt RIGHT_SHIFT LEFT_ARROW  &mt RIGHT_CONTROL DOWN_ARROW  &mt RIGHT_ALT UP_ARROW  &mt RIGHT_COMMAND RIGHT_ARROW
+&kp DE_ACUTE  &kp DE_AMPERSAND                 &kp DE_SLASH                   &kp DE_EQUAL                 &kp LBRC                  &kp DE_LEFT_PARENTHESIS    &kp DE_RIGHT_PARENTHESIS  &kp DE_RIGHT_BRACE          &kp DE_O_UMLAUT               &kp DE_A_UMLAUT         &kp DE_U_UMLAUT                &kp DE_SZ
+                                                                              &trans                       &trans                    &trans                     &mo ADJ                   &trans                      &trans
             >;
         };
 
