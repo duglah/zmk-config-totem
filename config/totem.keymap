@@ -113,7 +113,7 @@
             bindings = <
               &kp DE_N1                        &kp DE_N2                      &kp DE_N3                  &kp DE_N4                &kp DE_N5        &kp DE_N6      &kp DE_N7                   &kp DE_N8                     &kp DE_N9               &kp DE_N0
               &mt LEFT_COMMAND DE_EXCLAMATION  &mt LEFT_ALT DE_DOUBLE_QUOTES  &mt LEFT_CONTROL DE_ACUTE  &mt LEFT_SHIFT DE_EQUAL  &kp LA(DE_N5)    &kp LA(DE_N6)  &mt RIGHT_SHIFT LEFT_ARROW  &mt RIGHT_CONTROL DOWN_ARROW  &mt RIGHT_ALT UP_ARROW  &mt RIGHT_COMMAND RIGHT_ARROW
-&kp DE_ACUTE  &kp DE_AMPERSAND                 &kp DE_SLASH                   &kp DE_EQUAL               &kp LA(DE_N8)            &kp LS(DE_N8)    &kp LS(DE_N9)  &kp LA(DE_N9)               &kp DE_O_UMLAUT               &kp DE_A_UMLAUT         &kp DE_U_UMLAUT                &kp DE_SZ
+&kp DE_SLASH  &kp DE_AMPERSAND                 &kp DE_QUESTION                &kp DE_LESS_THAN           &kp LA(DE_N8)            &kp LS(DE_N8)    &kp LS(DE_N9)  &kp LA(DE_N9)               &kp DE_O_UMLAUT               &kp DE_A_UMLAUT         &kp DE_U_UMLAUT                &kp DE_SZ
                                                                               &none                      &none                    &none            &mo 3          &none                       &none
             >;
         };
